@@ -23,10 +23,10 @@ This is a simple portfolio website developed as part of the Oasis Infobyte Inter
 - **Boxicons:** Icons for social media and navigation.
 
 ## File Structure
-|-- index.html# Main HTML file 
-|-- style.css# Stylesheet for the website 
-|-- script.js# JavaScript file for interactions 
-|-- images/ # Folder for images
+- |-- index.html        # Main HTML file
+- |-- style.css         # Stylesheet for the website
+- |-- script.js         # JavaScript file for interactions
+- |-- images/           # Folder for images
 
 
 ## How to Run the Project
