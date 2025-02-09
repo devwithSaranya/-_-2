@@ -39,9 +39,9 @@ This is a simple portfolio website developed as part of the Oasis Infobyte Inter
 [GitHub Pages or hosted link if applicable]
 
 ## Contact
-GitHub: github.com/devwithSaranya
+GitHub: https://github.com/devwithSaranya
 
-LinkedIn: linkedin.com/in/saranyacfsd
+LinkedIn: https://linkedin.com/in/saranyacfsd
 
 Email: saranyaengineer8@gmail.com
 
