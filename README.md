@@ -36,7 +36,7 @@ This is a simple portfolio website developed as part of the Oasis Infobyte Inter
    git clone https://github.com/devwithSaranya/-_-2.git
 
 ## Live Preview
-[GitHub Pages or hosted link if applicable]
+Live demo: https://saranyaportfolio.vercel.app/
 
 ## Contact
 GitHub: https://github.com/devwithSaranya
